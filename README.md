@@ -1,2 +1,2 @@
-# -dashboard-project
+# dashboard-project
 A Dashboard Project 
