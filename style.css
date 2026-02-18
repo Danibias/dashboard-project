@@ -136,7 +136,6 @@ small,
     flex-wrap: wrap;
     align-content: center;
     justify-content: space-between;
-    height: 40%;
 }
 
 .search-section {
@@ -201,11 +200,7 @@ small,
 .profile-header {
     display: flex;
     justify-content: space-between;
-    align-content: center;
-    height: 60%;
 }
-
-
 
 .profile {
     display: flex;
